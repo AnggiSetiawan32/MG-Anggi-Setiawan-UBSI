@@ -1,2 +1,2 @@
-# MG-Anggi-Setiawan-UBSI
+# MJ-Anggi-Setiawan-UBSI
 Repository untuk menyimpan tugas magang 
