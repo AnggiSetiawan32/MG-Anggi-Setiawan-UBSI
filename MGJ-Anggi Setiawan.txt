@@ -1,4 +1,5 @@
 Membuat akun github menggunakan email magang 
 Membuat akun figma menggunakan email magang 
 Mempelajari video video yang diberikan 
-Instalasi laravel 11 di device masing masing
+Instalasi laravel 11 di device 
+Tugas berikutnya menyesuaikan 
